@@ -1,9 +1,0 @@
- .ansible
- .bash_history
- .bash_logout
- .bashrc
- .bash_profile
- .viminfo
- .ssh
- .gitignore
- keypair.pem
